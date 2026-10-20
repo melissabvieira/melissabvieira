@@ -1,4 +1,4 @@
-# Olá! Eu sou a Melissa Beatriz Vieira 👋
+# Olá! Eu sou a Melissa Vieira 👋
 
 🎓 Estudante de Desenvolvimento de Software na Fatec  
 💻 Analista de Suporte ERP Júnior  
@@ -12,7 +12,7 @@ Tenho interesse em desenvolvimento de software, análise de sistemas e banco de 
 
 ## Tecnologias e ferramentas
 
-- **Linguagens:** PHP, JavaScript, HTML, CSS e SQL
+- **Linguagens:** PHP, JavaScript, HTML e CSS
 - **Desenvolvimento mobile:** Flutter
 - **Banco de dados:** Oracle e MySQL
 - **Ferramentas:** Git, GitHub, Docker e VS Code
