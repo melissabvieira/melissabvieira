@@ -28,9 +28,13 @@ Tenho interesse em desenvolvimento de software, análise de sistemas e banco de 
 
 ## Projetos
 
-Estou desenvolvendo projetos acadêmicos e pessoais com foco em desenvolvimento web, aplicações mobile e soluções de software.
+### 💼 MVStudio
 
-Confira meus repositórios para acompanhar minha evolução e conhecer meus projetos.
+Projeto voltado à criação de soluções digitais e desenvolvimento web, com foco em identidade visual, design e presença digital para marcas e negócios.
+
+### 🎓 Projetos acadêmicos
+
+Desenvolvimento de projetos durante a graduação em Desenvolvimento de Software na Fatec, envolvendo aplicações web e mobile, integração com APIs, bancos de dados e trabalho em equipe utilizando Git e GitHub.
 
 ## Contato
 
